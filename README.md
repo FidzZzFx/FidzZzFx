@@ -36,14 +36,10 @@ Halo, saya **FidzZz Try**, developer yang tertarik pada pengembangan perangkat l
 
 </div>
 
-| Kategori | Teknologi |
-|:--|:--|
-| **Bahasa** | JavaScript, TypeScript, Python, Go, Dart |
-| **Backend** | Node.js, Express.js, REST API |
-| **Mobile** | Flutter |
-| **Frontend** | Vanilla JavaScript, HTML5, CSS3 |
-| **Database & Service** | Supabase |
-| **Sistem** | Linux |
+<br/>
+
+---
+
 
 ### Eksplorasi - teknologi yang sedang dipelajari / dijelajahi
 
