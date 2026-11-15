@@ -86,13 +86,15 @@ Halo, saya **FidzZz Try** — developer yang tertarik pada pengembangan perangka
 
 ---
 
-## ◼ Activity & Contribution
+## ▪ Activity & Contribution
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FidzZzFx&bg_color=0D0D0D&color=FFC915&line=FFC915&point=FFFFFF&area=true&area_color=FFC915&hide_border=true&radius=8" alt="Grafik aktivitas kontribusi GitHub" width="100%" />
-
-</div>
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/F7C843/FidzZzFx"
+    alt="Grafik kontribusi GitHub FidzZzFx"
+    width="100%"
+  />
+</p>
 
 <br/>
 
