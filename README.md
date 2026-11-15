@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=FFC915&background=00000000&center=true&vCenter=true&width=560&lines=Building+bots%2C+apps+%26+digital+systems;Clean+code.+Solid+architecture.;Always+shipping%2C+always+learning" alt="Tagline animasi" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Developer-FidzZz%20Try-FFC915?style=for-the-badge&labelColor=111111" alt="Badge nama" />
 <img src="https://img.shields.io/badge/Focus-Node.js%20%C2%B7%20Automation%20%C2%B7%20Apps-FFC915?style=for-the-badge&labelColor=111111" alt="Badge fokus" />
