@@ -86,28 +86,6 @@ Halo, saya **FidzZz Try** — developer yang tertarik pada pengembangan perangka
 
 ---
 
-## ◼ GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FFC915&text_color=E5E5E5&icon_color=FFC915&ring_color=FFC915&include_all_commits=true&count_private=true" alt="Statistik GitHub: commits, stars, PR, issues" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FFC915&text_color=E5E5E5&langs_count=8" alt="Bahasa yang paling sering digunakan" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0D0D0D&ring=FFC915&fire=FFC915&currStreakNum=FFFFFF&currStreakLabel=FFC915&sideNums=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF" alt="Streak kontribusi GitHub" />
-
-<br/>
-
-<img src="https://img.shields.io/github/followers/USERNAME?style=flat-square&color=FFC915&labelColor=111111&logo=github&logoColor=FFC915" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat-square&color=FFC915&labelColor=111111&label=Profile+Views" alt="Profile views" />
-
-</div>
-
-<br/>
-
----
-
 ## ◼ Activity & Contribution
 
 <div align="center">
