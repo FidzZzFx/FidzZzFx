@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC915,100:111111&height=240&section=header&text=FidzZz%20Try&fontSize=64&fontColor=111111&fontAlignY=38&desc=Software%20Developer&descSize=20&descColor=111111&descAlignY=58&animation=fadeIn" alt="Banner FidzZz Try" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=FFC915&background=00000000&center=true&vCenter=true&width=560&lines=Building+bots%2C+apps+%26+digital+systems;Clean+code.+Solid+architecture.;Always+shipping%2C+always+learning" alt="Tagline animasi" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=FFC915&background=00000000&center=true&vCenter=true&width=560&lines=Building+system%2C+apps+%26+digital+systems;Clean+code.+Solid+architecture.;Always+shipping%2C+always+learning" alt="Tagline animasi" />
 </a>
 
 <br/>
@@ -20,14 +20,13 @@
 
 ## ◼ About Me
 
-Halo, saya **FidzZz Try** — developer yang tertarik pada pengembangan perangkat lunak, pemrograman, dan inovasi digital. Saya membangun bot, aplikasi web, aplikasi mobile, dan sistem yang berjalan stabil serta mudah dirawat.
+Halo, saya **FidzZz Try**, developer yang tertarik pada pengembangan perangkat lunak, pemrograman, dan inovasi digital. Saya membangun bot, aplikasi web, aplikasi mobile, dan sistem yang berjalan stabil serta mudah dirawat.
 
 | | |
 |:--|:--|
 | **Fokus** | develop, aplikasi web, aplikasi mobile, dan backend system |
 | **Stack utama** | Node.js, JavaScript, TypeScript, Python, Go |
-| **Lingkungan kerja** | Linux (CachyOS) dengan Hyprland |
-| **Prinsip** | Kode yang jelas, modular, dan mudah dikembangkan lebih lanjut |
+| **Prinsip** | Tiada hari tanpa kode untuk berkembang |
 
 <br/>
 
