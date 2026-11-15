@@ -24,17 +24,10 @@ Halo, saya **FidzZz Try** — developer yang tertarik pada pengembangan perangka
 
 | | |
 |:--|:--|
-| **Fokus** | Bot automation, aplikasi web, aplikasi mobile, dan backend system |
+| **Fokus** | develop, aplikasi web, aplikasi mobile, dan backend system |
 | **Stack utama** | Node.js, JavaScript, TypeScript, Python, Go |
 | **Lingkungan kerja** | Linux (CachyOS) dengan Hyprland |
 | **Prinsip** | Kode yang jelas, modular, dan mudah dikembangkan lebih lanjut |
-
-**Cara saya bekerja**
-
-- Tulis kode yang terbaca dulu, optimasi setelahnya.
-- Pecah sistem besar menjadi modul-modul kecil yang bisa diuji.
-- Debug berdasarkan penyebab, bukan gejala.
-- Terus iterasi: rilis, ukur, perbaiki.
 
 <br/>
 
