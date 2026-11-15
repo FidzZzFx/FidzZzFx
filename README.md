@@ -22,12 +22,6 @@
 
 Halo, saya **FidzZz Try**, developer yang tertarik pada pengembangan perangkat lunak, pemrograman, dan inovasi digital. Saya membangun bot, aplikasi web, aplikasi mobile, dan sistem yang berjalan stabil serta mudah dirawat.
 
-| | |
-|:--|:--|
-| **Fokus** | develop, aplikasi web, aplikasi mobile, dan backend system |
-| **Stack utama** | Node.js, JavaScript, TypeScript, Python, Go |
-| **Prinsip** | Tiada hari tanpa kode untuk berkembang |
-
 <br/>
 
 ---
@@ -51,7 +45,7 @@ Halo, saya **FidzZz Try**, developer yang tertarik pada pengembangan perangkat l
 | **Database & Service** | Supabase |
 | **Sistem** | Linux |
 
-### Eksplorasi — teknologi yang sedang dipelajari / dijelajahi
+### Eksplorasi - teknologi yang sedang dipelajari / dijelajahi
 
 <div align="center">
 
@@ -74,10 +68,6 @@ Halo, saya **FidzZz Try**, developer yang tertarik pada pengembangan perangkat l
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arch,docker,postman,figma,npm,pnpm,vercel,netlify,bash&perline=13&theme=dark" alt="Tools dan platform: Git, GitHub, VS Code, Linux, Arch, Docker, Postman, Figma, npm, pnpm, Vercel, Netlify, Bash" />
 
 </div>
-
-<br/>
-
----
 
 <br/>
 
