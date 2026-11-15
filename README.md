@@ -35,7 +35,7 @@ Halo, saya **FidzZz Try** — developer yang tertarik pada pengembangan perangka
 
 ## ◼ Tech Stack
 
-### Core — teknologi yang aktif saya gunakan
+### Core - teknologi yang aktif saya gunakan
 
 <div align="center">
 
