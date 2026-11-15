@@ -63,8 +63,6 @@ Halo, saya **FidzZz Try**, developer yang tertarik pada pengembangan perangkat l
 
 </div>
 
-> Ikon pada bagian **Eksplorasi** menandakan teknologi yang sedang dipelajari, bukan klaim keahlian.
-
 <br/>
 
 ---
