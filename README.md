@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Developer-FidzZz%20Try-FFC915?style=for-the-badge&labelColor=111111" alt="Badge nama" />
 <img src="https://img.shields.io/badge/Focus-Node.js%20%C2%B7%20Automation%20%C2%B7%20Apps-FFC915?style=for-the-badge&labelColor=111111" alt="Badge fokus" />
-<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=FFC915&labelColor=111111&logo=github&logoColor=FFC915" alt="Followers GitHub" />
+<img src="https://img.shields.io/github/followers/FidzZzFx?style=for-the-badge&color=FFC915&labelColor=111111&logo=github&logoColor=FFC915" alt="Followers GitHub" />
 
 </div>
 
