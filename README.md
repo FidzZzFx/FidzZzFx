@@ -1,9 +1,3 @@
-<!-- ============================================================
-  GANTI SEMUA "USERNAME" dengan username GitHub kamu.
-  Placeholder tautan (yang diawali "#") ganti dengan URL asli.
-  Pindahkan ikon antara "Core" dan "Eksplorasi" sesuai kemampuan sebenarnya.
-============================================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC915,100:111111&height=240&section=header&text=FidzZz%20Try&fontSize=64&fontColor=111111&fontAlignY=38&desc=Software%20Developer&descSize=20&descColor=111111&descAlignY=58&animation=fadeIn" alt="Banner FidzZz Try" width="100%" />
